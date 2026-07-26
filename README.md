@@ -522,14 +522,6 @@ created_at         status
 
 ---
 
-## 👥 Team
-
-| Name | Role | Contribution |
-|------|------|-------------|
-| **Haider** | Full-Stack Dev + Project Lead | Backend architecture, FastAPI routes, JWT auth, database design, email system, scheduler, frontend setup, React routing, deployment |
-| **Zainab Baig** | Frontend + Document Module | Typed document grading pipeline (PDF/DOCX + Gemini), student-facing frontend pages, UI/UX |
-| **Ali Haider** | Code Grading Module | Docker sandbox execution, test case matching, Groq LLM feedback, code pipeline integration |
-| **Asad Ali Mir** | Handwritten Module | Image preprocessing, Gemini Vision OCR, Groq LLM grading, handwritten pipeline |
 
 ---
 
