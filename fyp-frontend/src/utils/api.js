@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000';
+const BASE_URL = import.meta.env.VITE_API_URL || 'https://assess-io-production.up.railway.app';
 
 // All API calls go through this function.
 // Token is automatically attached to every request from localStorage.
